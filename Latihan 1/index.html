@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" type="image/x-icon" href="https://static.codepen.io/assets/favicon/favicon-aec34940fbc1a6e787974dcd360f2c6b63348d4b1f4e06c77743096d55480f33.ico" />
+    <link rel="mask-icon" type="" href="https://static.codepen.io/assets/favicon/logo-pin-8f3771b1072e3c38bd662872f6b673a722f4b3ca2421637d5596661b4e2132cc.svg" color="#111" /> 
+    <title>VOLIO</title>
+</head>
+<body onload="detectingURL()">
+    <div class="column1">
+        <div class="header">
+            <h1>BLVCK <span class="underline-magical-active">DEER</span></h1>
+            <p><span class="underline-magical">Freelancer's</span> option</span></p>
+        </div>
+        <div class="posbuttonprimary">
+            <button class="primary-btn">Browse Project</button>
+        </div>
+
+        <div id="menu-items">
+                <a onclick="javascript: window.location = 'index.html';" id="items">Home</a>
+                <a onclick="javascript: window.location = 'about.html';" id="items">About</a>
+                <a onclick="javascript: window.location = 'index.html';" id="items">Index</a>
+                <a onclick="javascript: window.location = 'contact.html';" id="items">Contact</a>
+                <a onclick="javascript: window.location = 'sitemap.html';" id="items">Sitemap</a>
+                <a onclick="javascript: window.location = 'pricing.html';" id="items">Pricing</a>
+        </div>
+    </div>
+    <div class="content">
+        <h1><span class="underline-magical">Team</span></h1>
+    </div>
+<script type="text/javascript" src="java.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>
+document.onkeydown = function(e) {
+        if (e.ctrlKey && 
+            (e.keyCode === 67 || 
+             e.keyCode === 86 || 
+             e.keyCode === 85 || 
+             e.keyCode === 117)) {
+            return false;
+        }
+};
+$(document).keypress("u",function(e) {
+  if(e.ctrlKey)
+  {
+return false;
+}
+});
+</script>
+</body>
+</html>
