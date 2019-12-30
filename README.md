@@ -5,4 +5,4 @@ To see Project web code see **'Blvck Deer'** and **'Latihan 1'** folder.
 
 
 
-Copyright ©2020 Blvck Deer Company
+Copyright **©2020 Blvck Deer Company**
