@@ -1,9 +1,10 @@
 # Blvck Deer Project
-![Blvck Deer Logo](https://github.com/ikhsansdq/blvckdeer/blob/master/Blvck%20Deer%20Project/Resources/Images/favicon.png)
 
-To see Project Design file look on **'Blvck Deer Project Folder'**. 
-To see Project web code see **'Blvck Deer'** and **'Latihan 1'** folder.
+Blvck Deer is a startup company that run in Creative & Technology industry such as **UI/ UX** and **Web Programming**. We want to change the UI/ UX world also like making our own design trend that appeal in world design trend.
 
+## Getting Started
+
+For information about the folder, take a look at ![Getting Started](#) guide. 
 
 
 Copyright **©2020 Blvck Deer Company**
