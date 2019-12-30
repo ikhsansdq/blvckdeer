@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans:400,400i,700,700i&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900&display=swap');
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -107,6 +111,16 @@ button {
     border: 1px solid #ffffff;
     color: white;
     border-radius: 2px;
+    transition: 0.2s;
+}
+
+.primary-btn a {
+    color: white;
+    transition: 0.2s;   
+}
+
+.primary-btn a:hover {
+    color: #141414;
     transition: 0.2s;
 }
 
