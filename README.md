@@ -8,3 +8,5 @@ For information about the folder, take a look at [Getting Started](https://githu
 
 
 Copyright **©2020 Blvck Deer Company**
+
+https://www.blvckdeer.com
