@@ -4,7 +4,7 @@ Blvck Deer is a startup company that run in Creative & Technology industry such 
 
 ## Getting Started
 
-For information about the folder, take a look at [Getting Started](#) guide. 
+For information about the folder, take a look at [Getting Started(https://github.com/ikhsansdq/blvckdeer/blob/master/Blvck%20Deer/getting-started.md) guide. 
 
 
 Copyright **©2020 Blvck Deer Company**
